@@ -1,6 +1,6 @@
 # Hello and Welcome, I'm Accacia!
 
-👋 I'm a construction Estimator turned web-developer based out of Toronto.
+👋 I'm a Web Developer based out of Toronto.
 
 I am passionate about creating aesthetically pleasing websites that are user-friendly, intuitive and most importantly accessible to all.
 
