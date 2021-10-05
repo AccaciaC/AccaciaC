@@ -1,4 +1,4 @@
-# Hello and Welcome, I'm Accacia!
+# Hello, I'm Accacia!
 
 👋 I'm a Web Developer based out of Toronto.
 
